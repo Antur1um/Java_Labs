@@ -1,0 +1,2 @@
+java Main.Main
+pause
